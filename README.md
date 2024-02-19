@@ -1,5 +1,4 @@
 ---
-
 # Undugu Empowerment Programs
 
 Welcome to the Undugu Empowerment Programs repository! We are a dedicated non-governmental organization committed to empowering, mentoring, and fostering the younger generation. Our mission is to nurture young minds and provide them with the tools and resources they need to reach their full potential.
@@ -44,10 +43,9 @@ If you encounter any issues, bugs, or have suggestions for improvements, please 
 
 Have questions or want to learn more about Undugu Empowerment Programs? Feel free to reach out to us:
 
-- **Email:** info@unduguempowerment.org
-- **Phone:** +254 759 967 305 
+- **Email:** info@unduguempowerment.org - Office
+- **Phone:** philipmudambo1999@gmail.com - Web Admin
 - **Website:** [www.unduguempowerment.org](https://www.unduguempowerment.org)
 
 We look forward to collaborating with you and making a difference in the lives of young people together!
-
 ---
