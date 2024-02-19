@@ -42,10 +42,9 @@ If you encounter any issues, bugs, or have suggestions for improvements, please 
 ## Contact Us
 
 Have questions or want to learn more about Undugu Empowerment Programs? Feel free to reach out to us:
-
-- **Email:** info@unduguempowerment.org - Office
-- **Phone:** philipmudambo1999@gmail.com - Web Admin
-- **Website:** [www.unduguempowerment.org](https://www.unduguempowerment.org)
+- **Email:** info@unduguempowerment.com (Office)
+- **Phone:** philipmudambo1999@gmail.com (Web Admin)
+- **Website:** [www.unduguempowerment.org](https://www.unduguempowerment.com)
 
 We look forward to collaborating with you and making a difference in the lives of young people together!
 ---
